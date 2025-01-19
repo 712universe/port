@@ -43,14 +43,6 @@ body {
   text-decoration: underline;
 }
 
-/* 배너 */
-.banner {
-  
-  background-size: cover;  /* 이미지 크기를 배경에 맞게 조절 */
-  background-position: center; /* 이미지의 위치를 중앙에 맞춤 */
-  background-repeat: no-repeat; /* 이미지 반복 방지 */
-  height: 300px; /* 배너의 높이를 설정 */
-}
 
 /* 메인 콘텐츠 */
 .main-content {
